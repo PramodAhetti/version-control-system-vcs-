@@ -1,7 +1,3 @@
-This looks like a simple version control system (VCS) written in C. I'll create a `README.md` file for it, explaining its features and how to use it.
-
------
-
 # Simple VCS
 
 Simple VCS is a lightweight, command-line version control system written in C. It allows you to track changes in your project, similar to Git, but with a much simpler set of features.
